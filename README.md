@@ -26,3 +26,7 @@ the programming that I am learning now is :
 - [ ] Python
 - [ ] Ruby
 - [ ] Dart
+
+JS | C | Python
+---|---|-------
+dynamic typing | High-Level | print
