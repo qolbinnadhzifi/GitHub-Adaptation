@@ -18,3 +18,5 @@ app.on('/', => (){
 console.log(`hari ini adalah hari Jum\'at`);
 });
 ```
+
+my friends : - @gameye98 -@Cvar1984
