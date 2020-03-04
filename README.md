@@ -19,4 +19,4 @@ console.log(`hari ini adalah hari Jum\'at`);
 });
 ```
 
-my friends : @: - @gameye98 -@Cvar1984
+my friends : @ symbol: - @gameye98 -@Cvar1984
