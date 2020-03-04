@@ -20,8 +20,5 @@ console.log(`hari ini adalah hari Jum\'at`);
 ```
 
 the programming that I am learning now is :
-- [] C
 - [x] JS
-- [] Python
-- [] Ruby
-- [] Dart
+- [] Other
